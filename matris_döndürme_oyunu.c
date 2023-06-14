@@ -3,6 +3,8 @@
 #define MAX 300
 int main() {
 	//commit için yorum yazıldı
+	//ikinci yorum yazıldı
+	//3. degisiklik yapildi
 	int i, j, k, m, N, deger, ayse_puan=0, betul_puan=0, puan=0;
 	char cevap;
 	int matris[MAX][MAX];
