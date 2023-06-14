@@ -2,7 +2,7 @@
 #include<time.h>
 #define MAX 300
 int main() {
-	
+	//commit için yorum yazýldý
 	int i, j, k, m, N, deger, ayse_puan=0, betul_puan=0, puan=0;
 	char cevap;
 	int matris[MAX][MAX];
